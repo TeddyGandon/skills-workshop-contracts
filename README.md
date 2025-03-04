@@ -3,13 +3,7 @@
 Install the dependencies with NPM
 
 ```
-npm install
-```
-
-For development purpose use
-
-```
-npm install --with-dev
+npm ci
 ```
 
 ## Start
